@@ -160,8 +160,8 @@ include('../includes/config.php');
                       <th>Image</th>
                       <th>Description</th>
                       <th>Car Name</th>
-                      <th>Model</th>
-                      <th>Color</th>
+                      <th>Brand</th>
+                      <th>Fueltype</th>
                       <th> </th>
                     </tr>
 

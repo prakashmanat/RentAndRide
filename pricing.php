@@ -148,7 +148,7 @@ session_start();
 									</td>
 
 									<td class="price">
-										<p class="btn-custom"><a href="#">Rent a car</a></p>
+										<p class="btn-custom"><a href="booking.php">Rent a car</a></p>
 										<div class="price-rate">
 											<h3>
 												<span class="num"><small class="currency"></small>120km</span>
